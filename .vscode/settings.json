@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "[ruby]": {
+    "editor.defaultFormatter": "Shopify.ruby-lsp"
+  },
+  "rubyLsp": {
+    "rubyVersionManager": "rbenv"
+  }
+}
